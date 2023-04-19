@@ -1,5 +1,4 @@
-# spring-crm-system
-spring boot project about CRM System
+# spring boot project about CRM System
 
 Created a web application in Spring Boot using Thymeleaf library as a view. 
 Created a mini application of requests for processing CRM system. To implement this task we use Spring Data library + PostgreSQL. Created the basic layout (Layout) of your page, using the library Thymeleaf Layout Dialect.
